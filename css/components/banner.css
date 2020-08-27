@@ -1,0 +1,26 @@
+
+.banner {
+    background-image: url(../../images/barista2.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+    color: #FFD662;
+    align-items: right
+}
+
+.banner h1, p {
+  text-align: left;
+  width: 400px;
+  margin-left: 500px;
+  text-shadow: 2px 2px 3px grey;
+}
+
+.btn-primary {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  padding: 10px 20px;
+  height: 50px;
+  margin-left: 500px;
+  border-radius: 20px
+}
